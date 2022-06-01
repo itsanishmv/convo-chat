@@ -1,0 +1,15 @@
+.App{
+  background-color: #FAFAFA;
+  height: 100vh;
+  font-family: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+  background: url('https://cdn.dribbble.com/users/2058540/screenshots/8225403/media/bc617eec455a72c77feab587e09daa96.gif') right bottom no-repeat ,url('https://i.pinimg.com/originals/20/e4/28/20e428e4cd16105000c71d68cfd569c6.gif')left  no-repeat;
+  background-repeat: no-repeat;
+  background-size: 650px , 750px;
+}
+
+/* https://media4.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif?cid=790b76119c15165e16d5e8108b0a15d124b0c3c85f8f47d3&rid=giphy.gif&ct=g' */
+/* https://i.pinimg.com/originals/7c/1d/ab/7c1dab157f34e603487b5d0b057da448.gif */
+/* https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif */
+/* 
+url('https://i.pinimg.com/originals/20/e4/28/20e428e4cd16105000c71d68cfd569c6.gif')
+url('https://cdn.dribbble.com/users/2058540/screenshots/8225403/media/bc617eec455a72c77feab587e09daa96.gif') */
